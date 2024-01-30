@@ -30,5 +30,6 @@
 
 <h3 align="left">My Stats:</h3> 
 | -- | -- |
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minal589&show_icons=true&locale=en&layout=compact" alt="minal589" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
