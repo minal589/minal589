@@ -1,8 +1,4 @@
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minal589&" alt="minal589" /></p>
 <h1 align="center">Hi 👋, I'm Minal Sonawane</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
@@ -31,5 +27,5 @@
 <h3 align="left">My Stats:</h3> 
 | -- | -- |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minal589&show_icons=true&locale=en&layout=compact" alt="minal589" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minal589&" alt="minal589" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
